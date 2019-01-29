@@ -8,7 +8,7 @@ Shape::Shape(int x, int y): positionX{x}, positionY{y}
 
 void Shape::draw()
 {
-    std::cout << "Basic shape\n";
+    std::cout << "Basic shape yes\n";
 }
 
 void Shape::sharedPrint()
