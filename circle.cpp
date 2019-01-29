@@ -3,7 +3,7 @@
 
 Circle::Circle(int x, int y): Shape{x, y}
 {
- //test
+
 }
 
 void Circle::draw()
